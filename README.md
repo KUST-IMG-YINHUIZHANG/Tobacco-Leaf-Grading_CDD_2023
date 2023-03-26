@@ -6,4 +6,4 @@
 4. Import the same model in the `predict.py` script as in the training script, and set the `model_weight_path` to the path of the trained model weights (the default is saved in the weights folder)
 5. Set `img_path` in the `predict.py` script to the absolute path of the image you want to predict
 6. Set the weight path `workBook` and the 'pic_path' path to use the `predict_patch.py` script for the `predict_patch.py`
-Note: the weights:https://pan.baidu.com/s/1HkRblkkmk24-gRz53wHp1w   key:mab2
+7.Note: the weights:https://pan.baidu.com/s/1HkRblkkmk24-gRz53wHp1w   key:mab2
